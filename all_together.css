@@ -36,7 +36,7 @@ h1{
   }
   
   .content {
-    grid-template-columns: 2fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     grid-template-areas:
       "head head head"
       "side main main"
@@ -45,7 +45,7 @@ h1{
 }
 
 .box{
-  background-color: hsl(224, 29%, 20%);
+  background-color: rgb(244, 175, 236);
   border-radius: 20px;
   border:2px solid black;
   padding: 20px;
